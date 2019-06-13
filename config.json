@@ -1,6 +1,5 @@
 {
-  "namespace":"github.com:vicjicaman/microservices.git",
-  "dependencies": [],
+  "dependencies": {},
   "config": [{
       "name": "SUBDOMAIN",
       "value": "www"
