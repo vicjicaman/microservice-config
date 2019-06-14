@@ -1,0 +1,14 @@
+{
+  "SUBDOMAIN": {
+    "value": "www",
+    "type": null
+  },
+  "DOMAIN": {
+    "value": "repoflow.com",
+    "type": null
+  },
+  "HOST": {
+    "value": "www.repoflow.com",
+    "type": null
+  }
+}

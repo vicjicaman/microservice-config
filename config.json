@@ -1,0 +1,16 @@
+{
+  "dependencies": {},
+  "config": [{
+      "name": "SUBDOMAIN",
+      "value": "www"
+    },
+    {
+      "name": "DOMAIN",
+      "value": "repoflow.com"
+    },
+    {
+      "name": "HOST",
+      "value": "${SUBDOMAIN}.${DOMAIN}"
+    }
+  ]
+}
