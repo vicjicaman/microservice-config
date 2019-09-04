@@ -11,6 +11,10 @@
     {
       "name": "HOST",
       "value": "${SUBDOMAIN}.${DOMAIN}"
+    },
+    {
+      "name": "NAMESPACE",
+      "value": "microservices-namespace"
     }
   ]
 }
