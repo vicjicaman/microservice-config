@@ -15,6 +15,18 @@
     {
       "name": "NAMESPACE",
       "value": "microservices-namespace"
+    },
+    {
+      "name": "EXTERNAL_PROTOCOL",
+      "value": "https"
+    },
+    {
+      "name": "INTERNAL_PROTOCOL",
+      "value": "http"
+    },
+    {
+      "name": "URL",
+      "value": "${EXTERNAL_PROTOCOL}://${HOST}"
     }
   ]
 }
