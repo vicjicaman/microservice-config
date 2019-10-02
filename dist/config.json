@@ -14,5 +14,21 @@
   "NAMESPACE": {
     "value": "microservices-namespace",
     "type": null
+  },
+  "EXTERNAL_PROTOCOL": {
+    "value": "https",
+    "type": null
+  },
+  "INTERNAL_PROTOCOL": {
+    "value": "http",
+    "type": null
+  },
+  "URL": {
+    "value": "https://www.repoflow.com",
+    "type": null
+  },
+  "ADMIN_EMAIL": {
+    "value": "vic.jicama@gmail.com",
+    "type": null
   }
 }

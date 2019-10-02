@@ -1,6 +1,7 @@
 {
   "dependencies": {},
-  "config": [{
+  "config": [
+    {
       "name": "SUBDOMAIN",
       "value": "www"
     },
@@ -15,6 +16,22 @@
     {
       "name": "NAMESPACE",
       "value": "microservices-namespace"
+    },
+    {
+      "name": "EXTERNAL_PROTOCOL",
+      "value": "https"
+    },
+    {
+      "name": "INTERNAL_PROTOCOL",
+      "value": "http"
+    },
+    {
+      "name": "URL",
+      "value": "${EXTERNAL_PROTOCOL}://${HOST}"
+    },
+    {
+      "name": "ADMIN_EMAIL",
+      "value": "vic.jicama@gmail.com"
     }
   ]
 }
