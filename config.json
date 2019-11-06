@@ -3,7 +3,7 @@
   "config": [
     {
       "name": "SUBDOMAIN",
-      "value": "www"
+      "value": "blog"
     },
     {
       "name": "DOMAIN",
@@ -15,7 +15,7 @@
     },
     {
       "name": "NAMESPACE",
-      "value": "microservices-namespace"
+      "value": "repoflow-blog-namespace"
     },
     {
       "name": "EXTERNAL_PROTOCOL",
